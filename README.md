@@ -2,18 +2,18 @@
 - 🔭 I’m currently learning python and computer vision(cs231n)
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=noah0015)](https://solved.ac/noah0015) 
-
-
 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noah0015)](https://solved.ac/noah0015) <img src="http://mazandi.herokuapp.com/api?handle=noah0015&theme=warm"/>
 
 
+<br/>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=noah0015)](https://solved.ac/noah0015) 
 
+<br/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahYn)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahYn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
