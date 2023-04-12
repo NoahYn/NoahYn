@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently learning python and computer vision(cs231n)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 
 <!--
 **NoahYn/NoahYn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
