@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently learning python and computer vision(cs231n)
+- 🔭 I’m currently learning computer vision(cs231n)
 
 
 
