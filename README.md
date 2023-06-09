@@ -13,7 +13,7 @@
 
 <br/>
 
-
+http://www.boostcourse.org/certificate/A20230609-211473?langCode=ko
 
 
 <!--
