@@ -1,5 +1,4 @@
-### Hi there 👋
-- 🔭 I’m currently learning computer vision(cs231n)
+
 
 
 
