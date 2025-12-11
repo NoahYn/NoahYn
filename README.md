@@ -12,7 +12,6 @@
 
 <br/>
 
-langCode=ko
 
 
 <!--
