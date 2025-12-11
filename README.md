@@ -12,10 +12,11 @@
 
 <br/>
 
-http://www.boostcourse.org/certificate/A20230609-211473?langCode=ko
+langCode=ko
 
 
 <!--
+
 **NoahYn/NoahYn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,5 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+http://www.boostcourse.org/certificate/A20230609-211473?
 -->
